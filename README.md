@@ -1,3 +1,5 @@
+* It was used the concept of mobile first
+<hr>
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
