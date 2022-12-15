@@ -1,4 +1,5 @@
 * It was used the concept of mobile first
+* Responsive
 <hr>
 # Guia de estilos
 
