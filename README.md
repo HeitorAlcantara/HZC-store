@@ -1,3 +1,8 @@
+* It was used the concept of mobile first
+* Responsive
+
+https://heitoralcantara.github.io/HZC-store/
+<hr>
 # Guia de estilos
 
 Toda a estilização que será usada no projeto dentro do figma.
