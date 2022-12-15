@@ -12,8 +12,8 @@ const inicio = document.querySelector('.menu-lateral__link--inicio');
 const picos = document.querySelector('.menu-lateral__link--picos');
 const videos = document.querySelector('.menu-lateral__link--videos');
 
-const picosHtml = URL + "picos.html";
-const videosHtml = URL + "videos.html";
+const picosHtml = URL + "/HZC-store/picos.html";
+const videosHtml = URL + "/HZC-store/videos.html";
 
 if(picosHtml == window.location.href){
     inicio.classList.remove('menu-lateral__link--ativo');
